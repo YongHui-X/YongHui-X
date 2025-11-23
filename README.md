@@ -5,7 +5,7 @@ I'm a current National University of Singapore, Institute of Systems Science (NU
 I’m currently learning Machine Learning, Android Dev, and Agile software Delivery. I specialise in software design, Spring Boot, Java and Machine Learning. Feel free to browse my projects and give feedback.
 
 ### 📫 How to reach me
-You may reach me at 97332464 or johnny2769@gmail.com. Thank you!
+You may reach me at 97332464 or tanyonghui.johnny@gmail.com. Thank you!
 <!--
 **YongHui-X/YongHui-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
