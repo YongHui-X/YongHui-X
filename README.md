@@ -2,7 +2,7 @@
 
 ### 🌱 About me
 I'm a current National University of Singapore, Institute of Systems Science (NUS-ISS) post-grad student, working my way towards graduation and an internship!
-I’m currently learning Machine Learning, Android Dev, and Agile software Delivery. I specialise in software design, Spring Boot, Java and Machine Learning. Feel free to browse my projects and give feedback.
+I’m currently learning Machine Learning, Android Dev, and Agile software Delivery, while sharpening my full-stack development skills. I specialise in software design, Spring Boot, Java and Machine Learning. Feel free to browse my projects and give feedback.
 
 ### 📫 How to reach me
 You may reach me at 97332464 or tanyonghui.johnny@gmail.com. Thank you!
