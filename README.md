@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ### 🌱 About me
-I'm a current National University of Singapore, Institute of Systems Science (NUS-ISS) student, working my way towards graduation and a full time job!
-I’m currently working on improving my Machine Learning and full-stack development skills. I specialise in software design, Java Spring Boot, C# ASP.net, AI and Machine Learning. Feel free to browse my projects and give feedback.
+I'm a current NUS student and intern at LTA, aiming for Software Engineering roles in AI/ML. I have a strong background in software design, full-stack development. Passionate in building intelligent, scalable applications.
 
 ### 📫 How to reach me
 You may reach me at 97332464 or tanyonghui.johnny@gmail.com. Thank you!
