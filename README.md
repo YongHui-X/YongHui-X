@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🌱 About me
-I'm a current NUS student and SWE intern at LTA, aiming for AI/ML Engineering roles. I have a strong background in software design, full-stack development. Passionate in building intelligent, scalable applications.
+NUS student · SWE Intern @ LTA · Passionate about AI/ML and building scalable, intelligent applications.
 
 ### 📫 How to reach me
 You may reach me at 97332464 or tanyonghui.johnny@gmail.com. Thank you!
