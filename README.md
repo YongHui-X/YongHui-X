@@ -4,7 +4,7 @@
 NUS student · SWE Intern @ LTA · Passionate about AI/ML and building scalable, intelligent applications.
 
 ### 📫 How to reach me
-You may reach me at 97332464 or tanyonghui.johnny@gmail.com. Thank you!
+You may reach me at tanyonghui.johnny@gmail.com. Thank you!
 <!--
 **YongHui-X/YongHui-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
