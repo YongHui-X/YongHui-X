@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🌱 About me
-NUS student · SWE Intern @ LTA · Passionate about AI/ML and building scalable, intelligent applications.
+Passionate about AI/ML and building scalable, intelligent applications.
 
 ### 📫 How to reach me
 You may reach me at tanyonghui.johnny@gmail.com. Thank you!
