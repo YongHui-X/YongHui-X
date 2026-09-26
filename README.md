@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🌱 About me
-Passionate about AI/ML and building scalable, intelligent applications.
+Passionate about NLP and retrieval-augmented generation (RAG), building AI applications that turn complex information into useful answers.
 
 ### 📫 How to reach me
 You may reach me at tanyonghui.johnny@gmail.com. Thank you!
